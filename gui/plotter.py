@@ -1,5 +1,4 @@
 import numpy as np
-from gui.table_editor import TableEditor
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 
